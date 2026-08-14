@@ -80,7 +80,7 @@ Windows PE is used for boot images to start a computer. It's a Windows version w
 
 ### Windows Server Update Services (WSUS)
 
-WSUS is required for the software update point, which is required to install software updates during OS deployment. For more information, see [Install a configure a software update point](../../sum/get-started/install-a-software-update-point.md).
+WSUS is required for the software update point, which is required to install software updates during OS deployment. For more information, see [Install and configure a software update point](../../sum/get-started/install-a-software-update-point.md).
 
 ### Internet Information Services (IIS) on the site system servers
 
